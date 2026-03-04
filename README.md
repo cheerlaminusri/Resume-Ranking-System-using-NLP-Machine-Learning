@@ -46,18 +46,6 @@ This is a traditional NLP-based Machine Learning approach (not Deep Learning).
 - **Bootstrap** – Responsive UI design
 - **HTML/CSS** – Frontend structure and styling
 
-
-## 📂 Project Structure
-resume-matcher/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── templates/
-│ └── matchresume.html
-└── uploads/
-
 ---
 
 ## ▶️ How to Run Locally
